@@ -1,0 +1,1 @@
+jq '.' seaCreatures.json
